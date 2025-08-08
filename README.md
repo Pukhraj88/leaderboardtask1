@@ -5,10 +5,12 @@ Frontend LInk:https://pukhrajleaderboardtask.netlify.app/
 Backend Link:https://leaderboardtask11111.onrender.com 
 
 Live Demo: 
+Frontend LInk:https://pukhrajleaderboardtask.netlify.app/ 
 
-Frontend: Leaderboard Frontend 
+#view
 
-Backend API: Leaderboard Backend 
+<img width="1280" height="1024" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/74294fe9-393d-4f7b-bffe-d550872adaa7" />
+
 
 🧠 Tech Stack: 
 
