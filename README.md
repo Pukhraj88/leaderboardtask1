@@ -1,4 +1,8 @@
-📌 Leaderboard Task - Project Submission 
+📌 Leaderboard Task - Project 
+
+#Funtionlity Explain in one line
+User Registration , Select any user ,Claim Points to User  ,Leaderboard Display (Sorted by Highest Points) 
+
 
 Frontend LInk:https://pukhrajleaderboardtask.netlify.app/ 
 
